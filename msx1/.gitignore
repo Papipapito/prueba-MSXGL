@@ -1,0 +1,8 @@
+# Ficheros intermedios de compilacion MSXgl
+out/*.rel
+out/*.lst
+out/*.sym
+out/*.ihx
+out/*.map
+out/*.noi
+out/crt0*
